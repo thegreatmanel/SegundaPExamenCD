@@ -1,5 +1,5 @@
 package busqueda;
-//no me sale hacer que entren los datos por consola y los imprima así que meto estos comentarios
+//tampoco me sale por entorno gráfico así que meto un comentario diferente
 
 public class Busqueda {
 
